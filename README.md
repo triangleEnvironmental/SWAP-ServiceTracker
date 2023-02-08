@@ -11,7 +11,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/triangleEnvironmental/SWAP-ServiceTracker">
-    <img src="https://raw.githubusercontent.com/triangleEnvironmental/SWAP-BackOffice/main/resources/doc/graphic.png" alt="Logo"  height="80">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/triangleEnvironmental/SWAP-BackOffice/main/resources/doc/white_logo.png" height="200">
+      <img alt="SWAP Logo" src="https://raw.githubusercontent.com/triangleEnvironmental/SWAP-BackOffice/main/resources/doc/graphic.png" height="150">
+    </picture>
   </a>
 
   <h3 align="center">SWAP Service Tracker</h3>
@@ -51,6 +54,7 @@
 		<li><a href="#88-localization">Localization</a></li>
       </ul>
     </li>
+    <li><a href="#09-attribution">Attribution</a></li>
   </ol>
 </details>
 
@@ -246,6 +250,19 @@ Please check (firebase login https://firebase.google.com/docs/cli).
   * In `main.dart`, add `supportedLocales` to `GetMaterialApp()`
   * Create a new language file in `lib/locales/[new_language_code].dart`
   * Import the new translation file to `AppTranslations` class in `lib/app/utils/translations.dart`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 09. Attribution
+
+This Application was funded through the United States Agency for International Development (USAID) from 2020-2022. The contents of this Application are the sole responsibility of Triangle Environmental Health Initiative, LLC and do not necessarily reflect the views of USAID or the United States Government.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/triangleEnvironmental/SWAP-BackOffice/main/resources/doc/usaid_logo.png" height="150">
+    <img alt="USAID Logo" src="https://raw.githubusercontent.com/triangleEnvironmental/SWAP-BackOffice/main/resources/doc/usaid_logo.png" height="100">
+  </picture>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
