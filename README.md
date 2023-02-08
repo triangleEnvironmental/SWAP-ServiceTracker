@@ -21,6 +21,14 @@
 
   <p align="center">
     An application for moderators to solve waste issues.
+    <br/>
+    <br/>
+    <br/>
+    Try the existing platform
+    <br/>
+    <a href="https://play.google.com/store/apps/details?id=com.swaplistenapp&hl=en_SG&gl=US">Google Play Store</a>
+    ·
+    <a href="https://apps.apple.com/us/app/service-tracker-kh/id1537516269">iOS App Store</a>
   </p>
 </div>
 
